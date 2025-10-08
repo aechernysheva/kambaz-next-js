@@ -1,8 +1,34 @@
+import { Nav, NavItem, NavLink } from "react-bootstrap";
 import Link from "next/link";
 
 export default function TOC() {
  return (
-   <ul>
+   <Nav variant="pills">
+     <NavItem>
+       <NavLink href="/Labs" as={Link}>Labs</NavLink>
+     </NavItem>
+     <NavItem>
+       <NavLink href="/Labs/Lab1" as={Link}>Lab 1</NavLink>
+     </NavItem>
+     <NavItem>
+       <NavLink href="/Labs/Lab2" as={Link}>Lab 2</NavLink>
+     </NavItem>
+     <NavItem>
+       <NavLink href="/Labs/Lab3" as={Link}>Lab 3</NavLink>
+     </NavItem>
+     <NavItem>
+       <NavLink href="/" as={Link}>Kambaz</NavLink>
+     </NavItem>
+     <NavItem>
+       <NavLink href="https://github.com/aechernysheva">My GitHub</NavLink>
+     </NavItem>
+   </Nav>
+
+);}
+
+{/* 
+  
+  <ul>
      <li>
        <Link href="/Labs" id="wd-lab1-link">
          Home </Link>
@@ -24,4 +50,5 @@ export default function TOC() {
          Kambaz </Link>
      </li>
    </ul>
-);}
+   
+   */}
