@@ -9,10 +9,10 @@ export default function CourseNavigation() {
       <Link href="/Courses/1234/Modules" id="wd-course-modules-link"
         className="list-group-item text-danger border-0">Modules</Link>
 
-      <Link href="/Courses/1234/Piazza" id="wd-course-piazza-link"
+      <Link href="https://www.piazza.com/" id="wd-course-piazza-link"
         className="list-group-item text-danger border-0">Piazza</Link>
 
-      <Link href="/Courses/1234/Zoom" id="wd-course-zoom-link"
+      <Link href="https://applications.zoom.us/lti/advantage/" id="wd-course-zoom-link"
         className="list-group-item text-danger border-0">Zoom</Link>
 
       <Link href="/Courses/1234/Assignments" id="wd-course-assignments-link"
