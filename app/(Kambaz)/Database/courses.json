@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "LG1",
+    "name": "LG1: The Fame",
+    "number": "LG1000",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 4,
+    "description": "This course provides an in-depth study of Lady Gaga's first studio album: The Fame.",
+    "image": "/images/the_fame.jpg"
+  },
+  {
+    "_id": "LG2",
+    "name": "LG2: The Fame Monster",
+    "number": "LG2000",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 3,
+    "description":  "This course provides an in-depth study of Lady Gaga's second studio album: The Fame Monster.",
+    "image": "/images/the_fame_monster.jpg"
+  },
+  {
+    "_id": "LG3",
+    "name": "LG3: Born This Way",
+    "number": "LG3000",
+    "startDate": "2025-09-05",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 4,
+    "description": "This course provides an in-depth study of Lady Gaga's third studio album: Born This Way.",
+    "image": "/images/born_this_way.jpg"
+  },
+  {
+    "_id": "LG4",
+    "name": "LG4: Artpop",
+    "number": "LG4000",
+    "startDate": "2025-09-05",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 4,
+    "description": "This course provides an in-depth study of Lady Gaga's fourth studio album: Artpop.",
+    "image": "/images/artpop.jpg"
+  },
+  {
+    "_id": "LG5",
+    "name": "LG5: Joanne",
+    "number": "LG5000",
+    "startDate": "2025-09-05",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 4,
+    "description": "This course provides an in-depth study of Lady Gaga's fifth studio album: Joanne.",
+    "image": "/images/joanne.jpg"
+  },
+  {
+    "_id": "LG6",
+    "name": "LG6: Chromatica",
+    "number": "LG6000",
+    "startDate": "2025-09-05",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 4,
+    "description": "This course provides an in-depth study of Lady Gaga's sixth studio album: Chromatica.",
+    "image": "/images/chromatica.jpg"
+  },
+  {
+    "_id": "LG7",
+    "name": "LG7: Mayhem",
+    "number": "LG7000",
+    "startDate": "2025-09-05",
+    "endDate": "2023-05-15",
+    "department": "LG",
+    "credits": 4,
+    "description": "This course provides an in-depth study of Lady Gaga's seventh studio album: Mayhem.",
+    "image": "/images/mayhem.jpg"
+  }
+]
